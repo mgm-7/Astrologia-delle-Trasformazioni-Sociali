@@ -2,3 +2,6 @@
 "Benvenuto nel mio digital garden." 
 "---" 
 "publish: true" 
+---  
+publish: true  
+--- 
