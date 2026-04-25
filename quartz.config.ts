@@ -8,6 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
+    content: "C:/Users/aquil/OneDrive/Documents/Officina Libro Astrologia/Astrologia-Sociale",
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
