@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Astrologia delle Trasformazioni Sociali Benvenuto nel mio digital garden. Queste sono le mie note sull’astrologia e le trasformazioni sociali. ]]></description>
+    <pubDate>Sat, 25 Apr 2026 10:49:59 GMT</pubDate>
+  </item><item>
     <title>Eone</title>
     <link>https://quartz.jzhao.xyz/Eone</link>
     <guid>https://quartz.jzhao.xyz/Eone</guid>
@@ -34,12 +40,6 @@
     <link>https://quartz.jzhao.xyz/Senza-nome</link>
     <guid>https://quartz.jzhao.xyz/Senza-nome</guid>
     <description><![CDATA[  publish: true. ]]></description>
-    <pubDate>Sat, 25 Apr 2026 10:17:19 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ ”# Astrologia delle Trasformazioni Sociali” “Benvenuto nel mio digital garden.” ”---” “publish: true” publish: true publish: true. ]]></description>
     <pubDate>Sat, 25 Apr 2026 10:17:19 GMT</pubDate>
   </item>
     </channel>
