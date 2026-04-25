@@ -287,3 +287,6 @@ Pesci: Demetra. La dea madre per eccellenza, che vive il ciclo di perdita e rico
 Questa è solo una prima esplorazione, una rilettura personale che prova a intrecciare mito, simbolo e cielo. Un tentativo di restituire allo Zodiaco la sua antica, profonda, meravigliosa complessità.---  
 publish: true  
 --- 
+--- 
+publish: true 
+--- 
