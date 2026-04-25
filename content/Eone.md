@@ -6,5 +6,4 @@ L'ultimo avvenne in Toro nel 577 s.C. accompagnando la nascita dell'Età Assiale
 publish: true  
 --- 
 --- 
-publish: true 
---- 
+
