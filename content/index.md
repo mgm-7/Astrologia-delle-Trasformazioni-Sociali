@@ -1,7 +1,7 @@
-# Astrologia delle Trasformazioni Sociali
-
-Benvenuto nel mio digital garden. Queste sono le mie note sull'astrologia e le trasformazioni sociali.
-
 ---
 publish: true
 ---
+
+# Astrologia delle Trasformazioni Sociali
+
+Benvenuto nel mio digital garden. Queste sono le mie note sull'astrologia e le trasformazioni sociali.
